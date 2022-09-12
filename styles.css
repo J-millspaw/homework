@@ -35,7 +35,11 @@ nav {
 ul {
     list-style-type: none;
     color: white;
+    
    
+}
+li {
+    display: inline;
 }
 
 a {
